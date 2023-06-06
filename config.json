@@ -1,0 +1,17 @@
+{
+    "fileExtensions": [
+        "*",
+	".txt",
+        ".json",
+        ".pdf"
+    ],
+    "secondsUntilReVerify": 10,
+    "secondsUntilUpdateHashes": 120,
+    "printingOnlyAlerts": true,
+    "loggingOutput": true,
+    "loggingAlerts": true,
+    "loggingVerification": false,
+    "loggingHashUpdates": false,
+    "maxLogFileDays": 10,
+    "ScanPath": "/home/kali/Desktop/scanned/"
+}
